@@ -1,0 +1,1 @@
+Este é um arquivo de teste para criptografia em cascata. Note que para muitos dados, talvez não seja uma boa solução.
